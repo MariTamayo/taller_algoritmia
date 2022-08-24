@@ -1,0 +1,6 @@
+console.log("Nota definitiva de la asignatura")
+const prompt = require ("prompt-sync")({sigint: true})
+let corte1 = +(prompt("Ingresa la nota del 1 corte: "))
+let corte2 = +(prompt("Ingresa la nota del 2 corte: "))
+let corte3 = +(prompt("Ingresa la nota del 3 corte: "))
+console. log("La nota definitiva del estudiante: ", (corte1 * 0.3+corte2 * 0.3+corte3 * 0.4))
