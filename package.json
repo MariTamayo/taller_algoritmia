@@ -1,8 +1,9 @@
 {
-  "name": "java-sric",
+
+  "name": "taller_algoritmia",
   "version": "1.0.0",
   "description": "",
-  "main": "Ejercicio_2.js",
+  "main": "1.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
